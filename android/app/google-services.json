@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "31475634631",
+    "project_id": "bookhunt-f3a9f",
+    "storage_bucket": "bookhunt-f3a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31475634631:android:80fcb1c4af00908b4a09e2",
+        "android_client_info": {
+          "package_name": "com.example.bookhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31475634631-n6cibo5krkaa521tucuigrs43033i86u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookhunt",
+            "certificate_hash": "9fb64b44f9eaee913ebc5474b2cdc45aa473896c"
+          }
+        },
+        {
+          "client_id": "31475634631-4gv43o55ed6oqo0qevnoov0l73rqad60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYZp3NcpjY9zvjHi2EE-02jtz-1ovo9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31475634631-4gv43o55ed6oqo0qevnoov0l73rqad60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
