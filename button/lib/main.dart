@@ -25,37 +25,37 @@ class MyApp extends StatelessWidget {
               children: <Widget>[
                 Container(
                     child: Center(
-                      child: FlatButton(
+                      child: TextButton(
                         onPressed: (){},
                         child:Text('Donate',style: k,),
-                        color: Colors.white,
+                        //color: Colors.white,
                       ),
                     ),
                 ),
           Container(
             child: Center(
-              child: FlatButton(
+              child: TextButton(
                 onPressed: (){},
                 child:Text('Sell',style: k,),
-                color: Colors.white,
+                //color: Colors.white,
               ),
             ),
               ),
                 Container(
                   child: Center(
-                    child: FlatButton(
+                    child: TextButton(
                       onPressed: (){},
                       child:Text('Receive donated books ',style: k,),
-                      color: Colors.white,
+                      //color: Colors.white,
                     ),
                   ),
                 ),
                 Container(
                   child: Center(
-                    child: FlatButton(
+                    child: TextButton(
                       onPressed: (){},
                       child:Text('Buy',style: k,),
-                      color: Colors.white,
+                      //color: Colors.white,
                     ),
                   ),
                 ),
